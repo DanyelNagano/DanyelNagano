@@ -40,7 +40,6 @@
 
 <br/>
 
-
 <div>
 
 ### 📊 Estatísticas
@@ -57,7 +56,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="130" 
+      height="120" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyelNagano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
