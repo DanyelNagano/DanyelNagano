@@ -8,6 +8,8 @@
   
 </div>
 
+<div>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -35,6 +37,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+</div>
+
+<br/>
+
+
+<div>
+
 ### 📊 Estatísticas
 
 <p>
@@ -49,8 +58,10 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyelNagano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+  
+</div>
